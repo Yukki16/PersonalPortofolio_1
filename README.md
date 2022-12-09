@@ -1,4 +1,4 @@
-# PersonalPortofolio_1
+# Personal Portofolio
 First term, year 2, personal portofolio Unity project, Terrain generation with perlin noise and Unity Networking.
 
 The networking is at the begining and can only be used locally. No interface added to it yet so to access the project do the following steps:
